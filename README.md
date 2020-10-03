@@ -16,3 +16,20 @@ Data:  The 2017 year was chosen for this analysis to get the most recent set of 
 
 
 Key Findings:
+
+1) Trip Occurrence / Duration
+   -  During the week, trips occur most frequently during commute times (8-9 am and 5-6 pm); on weekends, trip occur most frequently in the afternoon hours.
+   -  Most trips are between 5-9 minutes with average trip times slightly longer on the weekends.
+   -  Shorter trip times during the week likely equate to more commuting trips or quick errands while users have more time to spend on weekend trips.
+   -  One-time-use customers (non-subscribers) have higher proportions of weekend trips and slightly longer trip times than subscribers.
+   -  One-time-use customers are more likely visitors to the city as opposed to subscribers which are likely city dwellers that are commuting and doing errands.
+   
+2) Differences During the Year (Month over Month)
+   - There are more trips during the "nicer" months (Late Spring/Summer/Fall) as conditions are better suited to bike riding.
+   - Trip times are also longer during these months; this is likely partially driven by more weekend trips which have longer average trip times.
+   - There is greater use by one-time-customers during this time period as well; in fact, trips by these users are virtually non-existent January through March.
+   
+3) Map of City Bike Stations
+   - The most popular bike stations for starting/ending trips is in Manhattan which is likely driven by the higher population in this area compared to outlying areas. 
+   - Given the shorter trip times, it can also be inferred that people are staying within a small radius when taking trips and are not traveling to outer boroughs.
+   
