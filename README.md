@@ -24,12 +24,17 @@ Key Findings:
    -  One-time-use customers (non-subscribers) have higher proportions of weekend trips and slightly longer trip times than subscribers.
    -  One-time-use customers are more likely visitors to the city as opposed to subscribers which are likely city dwellers that are commuting and doing errands.
    
+   ![Image1](https://github.com/bking3372/Tableau-City-Bike-Analysis/blob/main/images/CBA_SS1.PNG)
+   
 2) Differences During the Year (Month over Month)
    - There are more trips during the "nicer" months (Late Spring/Summer/Fall) as conditions are better suited to bike riding.
    - Trip times are also longer during these months; this is likely partially driven by more weekend trips which have longer average trip times.
    - There is greater use by one-time-customers during this time period as well; in fact, trips by these users are virtually non-existent January through March.
    
+   ![Image2](https://github.com/bking3372/Tableau-City-Bike-Analysis/blob/main/images/CBA_SS2.PNG)
+   
 3) Map of City Bike Stations
    - The most popular bike stations for starting/ending trips is in Manhattan which is likely driven by the higher population in this area compared to outlying areas. 
    - Given the shorter trip times, it can also be inferred that people are staying within a small radius when taking trips and are not traveling to outer boroughs.
    
+   ![Image3](https://github.com/bking3372/Tableau-City-Bike-Analysis/blob/main/images/CBA_SS3.PNG)
