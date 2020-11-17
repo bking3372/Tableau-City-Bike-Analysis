@@ -3,7 +3,7 @@
 **Background:** The NYC Citi Bike Program has implemented an infrastructure for collecting data on the program's utilization.  Each month bike data is collected, organized, and made public on the Citi Bike Data webpage.
 
 
-**Objective:**  Aggregate the data found in the Citi Bike Trip History Logs and develop two sets of visualizations based on the data.  Each set should encompass a dashboard with 2-5 visualizations per dashboard.  In addition, create a dynamic map of all bike stations to show how a station's popularity changes over the given time period.  Finally, create a Tableau story that brings together the visualizations, map, and dashboards. 
+**Objective:**  Aggregate the data found in the Citi Bike Trip History Logs and develop visualizations based on the data. 
 
 
 **Analysis:**
