@@ -1,12 +1,12 @@
 # Tableau City Bike Analysis
 
-Background: The NYC Citi Bike Program has implemented an infrastructure for collecting data on the program's utilization.  Each month bike data is collected, organized, and made public on the Citi Bike Data webpage.
+**Background:** The NYC Citi Bike Program has implemented an infrastructure for collecting data on the program's utilization.  Each month bike data is collected, organized, and made public on the Citi Bike Data webpage.
 
 
-Objective:  Aggregate the data found in the Citi Bike Trip History Logs and develop two sets of visualizations based on the data.  Each set should encompass a dashboard with 2-5 visualizations per dashboard.  In addition, create a dynamic map of all bike stations to show how a station's popularity changes over the given time period.  Finally, create a Tableau story that brings together the visualizations, map, and dashboards. 
+**Objective:**  Aggregate the data found in the Citi Bike Trip History Logs and develop two sets of visualizations based on the data.  Each set should encompass a dashboard with 2-5 visualizations per dashboard.  In addition, create a dynamic map of all bike stations to show how a station's popularity changes over the given time period.  Finally, create a Tableau story that brings together the visualizations, map, and dashboards. 
 
 
-Analysis:
+**Analysis:**
 
 Data:  The 2017 year was chosen for this analysis to get the most recent set of data that did not exceed the number of records that could be used in Tableau Public.  The data was organized and cleaned as follows:
 - All twelve months were combined together
@@ -15,7 +15,7 @@ Data:  The 2017 year was chosen for this analysis to get the most recent set of 
 - Data prep was performed uisng Python and is located in the code folder. 
 
 
-Key Findings:
+**Key Findings:**
 
 1) Trip Occurrence / Duration
    -  During the week, trips occur most frequently during commute times (8-9 am and 5-6 pm); on weekends, trip occur most frequently in the afternoon hours.
