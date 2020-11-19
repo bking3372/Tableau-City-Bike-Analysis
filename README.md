@@ -3,7 +3,7 @@
 ### Background: The NYC Citi Bike Program has implemented an infrastructure for collecting data on the program's utilization.  Each month bike data is collected, organized, and made public on the Citi Bike Data webpage.
 
 
-#### Objective:  Aggregate the data found in the Citi Bike Trip History Logs and develop visualizations based on the data. 
+### Objective:  Aggregate the data found in the Citi Bike Trip History Logs and develop visualizations based on the data. 
 
 
 **Analysis:**
